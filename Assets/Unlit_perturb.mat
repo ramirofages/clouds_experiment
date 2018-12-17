@@ -22,6 +22,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: da41b318261633c4884eed065d5cca67, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Heightmap:
+        m_Texture: {fileID: 2800000, guid: f287c7f033aa26546a9c558f13884d44, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 2d6449ce9a734f346b3c745595d26234, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -35,6 +39,6 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _PerturbScale: 0.072
+    - _PerturbScale: 0.441
     - _Scale: 1
     m_Colors: []
